@@ -1,3 +1,14 @@
+**Alice Material Tool** is an engine editor toolkit designed to expedite the process of material creation and modification.
+It provides three editor tools along with their corresponding blueprint nodes. Users can utilize these tools either through the editor interface or directly call the same functionality through blueprints.
+
+- **Merge Textures Tool**：The Merge Textures tool is used to combine up to four different Texture2D texture channels into a new Texture2D texture asset.
+- **Advanced Create Material**：The Advanced Create Material tool is used to automatically create a material instance asset from selected multiple textures.
+- **Advanced Replace Parent**：Advanced Replace Parent is used to systematically replace the parent material of material instances while preserving the parameter settings of the instances as much as possible.
+- 
+
+<u>[Marketplace Link](https://www.unrealengine.com/marketplace/zh-CN/product/alice-material-tool)</u>
+
+
 # Alice Material Tool Installation
 
 <img src="Pic/Install.png" style="zoom:100%;margin: auto 0" />
