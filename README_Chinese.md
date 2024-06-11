@@ -1,3 +1,12 @@
+**Alice Material Tool** 是一个引擎编辑器工具包，旨在加快材质的创建和修改过程。
+它提供了三个编辑器工具及其相应的蓝图节点。用户可以通过编辑器界面使用这些工具，也可以通过蓝图直接调用相同的功能。
+
+- **Merge Textures Tool**：合并纹理工具用于将最多四个不同的 Texture2D 纹理通道组合到一个新的 Texture2D 纹理资源中。
+- **Advanced Create Material**：高级创建材质工具用于从选定的多个纹理自动创建材质实例资源。
+- **Advanced Replace Parent**：高级替换父材质工具用于系统地替换材质实例的父材质，同时尽可能保留实例的参数设置。
+
+<u>[商城链接](https://www.unrealengine.com/marketplace/zh-CN/product/alice-material-tool)</u>
+
 # Alice Material Tool 安装
 
 <img src="Pic/Install.png" style="zoom:100%;margin: auto 0" />
